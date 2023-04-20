@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT students (student)+>
+<!ELEMENT student (id+,name+,gender+,department+)>
+<!-- <!ATTLIST student gender CDATA #IMPLIED> -->
+<!-- <!ATTLIST student gender CDATA #FIXED "female"> -->
+<!-- <!ATTLIST student gender CDATA (Male|Female|Others #REQUIRED> -->
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ENTITY KLU "KL University">
+<!ELEMENT department ANY> <!-- EMPTY  -->

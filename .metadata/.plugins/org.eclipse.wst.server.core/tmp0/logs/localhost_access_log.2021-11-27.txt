@@ -1,0 +1,10 @@
+127.0.0.1 - - [27/Nov/2021:16:20:06 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:20:28 +0530] "GET /JSP_MVC_Demo_S01/ HTTP/1.1" 200 1707
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:20:30 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:20:33 +0530] "GET /JSP_MVC_Demo_S01/index.jsp HTTP/1.1" 200 1707
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:27:14 +0530] "GET /JSP_MVC_Demo_S01/RegistrationForm.jsp HTTP/1.1" 200 6884
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:30:55 +0530] "POST /JSP_MVC_Demo_S01/register HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:30:59 +0530] "GET /JSP_MVC_Demo_S01/LoginForm.jsp HTTP/1.1" 200 6816
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:44:20 +0530] "GET /JSP_MVC_Demo_S01/RegistrationForm.jsp HTTP/1.1" 200 6884
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:47:16 +0530] "GET /JSP_MVC_Demo_S01/RegistrationForm.jsp HTTP/1.1" 200 6884
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:16:48:20 +0530] "POST /JSP_MVC_Demo_S01/register HTTP/1.1" 200 69

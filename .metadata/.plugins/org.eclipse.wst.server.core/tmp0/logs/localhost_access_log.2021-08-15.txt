@@ -1,0 +1,6 @@
+127.0.0.1 - - [15/Aug/2021:17:33:48 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [15/Aug/2021:17:33:49 +0530] "GET /JFSD_Skillings/Question31.xml HTTP/1.1" 200 442
+0:0:0:0:0:0:0:1 - - [15/Aug/2021:17:33:49 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [15/Aug/2021:17:48:39 +0530] "GET /JFSD_Skillings/Question32.xml HTTP/1.1" 200 1119
+0:0:0:0:0:0:0:1 - - [15/Aug/2021:17:56:10 +0530] "GET /JFSD_Skillings/Question33.xml HTTP/1.1" 200 1223
+0:0:0:0:0:0:0:1 - - [15/Aug/2021:17:56:10 +0530] "GET /JFSD_Skillings/style.css HTTP/1.1" 200 799

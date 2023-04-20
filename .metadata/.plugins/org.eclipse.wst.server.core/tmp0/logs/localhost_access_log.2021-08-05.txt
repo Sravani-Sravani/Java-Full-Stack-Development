@@ -1,0 +1,9 @@
+127.0.0.1 - - [05/Aug/2021:09:44:55 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:09:44:56 +0530] "GET /XML-Demo/demo.xml HTTP/1.1" 200 554
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:09:44:56 +0530] "GET /XML-Demo/demo.css HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:08:28 +0530] "GET /XML-Demo/Internal_DTD_Demo.xml HTTP/1.1" 200 770
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:08:48 +0530] "GET /XML-Demo/Internal_DTD_Demo.xml HTTP/1.1" 200 770
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:08:48 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:18:41 +0530] "GET /XML-Demo/Internal_DTD_Demo.xml HTTP/1.1" 200 807
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:25:06 +0530] "GET /XML-Demo/Internal_DTD_Demo.xml HTTP/1.1" 200 862
+0:0:0:0:0:0:0:1 - - [05/Aug/2021:10:31:24 +0530] "GET /XML-Demo/External_DTD_Demo.xml HTTP/1.1" 200 525

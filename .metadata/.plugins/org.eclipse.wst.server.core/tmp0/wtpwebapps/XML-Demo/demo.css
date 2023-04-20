@@ -1,0 +1,79 @@
+@charset "ISO-8859-1";
+heading
+{
+color:black;
+font-size: 30px;
+font-weight:bold;
+}
+student:after
+{
+content : attr(location);
+color: pink;
+font-style: italic;
+}
+id
+{
+font-size : 20px;
+display : block;
+color:blue;
+}
+name,gender,department
+{
+font-size : 20px;
+color:yellow;
+}
+
+
+heading
+{
+color:black;
+font-size: 30px;
+font-weight:bold;
+}
+student:after
+{
+content : attr(location) ' ' attr(language);
+color: pink;
+font-style: italic;
+}
+id
+{
+font-size : 20px;
+display : block;
+color:blue;
+}
+name,gender,department
+{
+font-size : 20px;
+color:yellow;
+}
+
+
+heading
+{
+color:black;
+font-size: 30px;
+font-weight:bold;
+}
+student:after
+{
+content : attr(location) '-' attr(language);
+color: orange;
+font-style: italic;
+}
+id
+{
+font-size : 20px;
+display : block;
+color:blue;
+}
+name
+{
+font-size : 20px;
+color:yellow;
+}
+gender,department
+{
+font-size : 15px;
+color:red;
+}

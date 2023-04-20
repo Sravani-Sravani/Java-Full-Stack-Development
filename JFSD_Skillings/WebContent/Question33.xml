@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Bank-Staff>
+<heading> The details of the wizards and goblins of the bank</heading>
+<Staff-Details>
+<Type>Wizard</Type>
+<Id>4567</Id>
+<Name>Bob</Name>
+<Gender>Male</Gender>
+<Address>California</Address>
+</Staff-Details>
+
+<Staff-Details>
+<Type>Goblin</Type>
+<Id>4569</Id>
+<Name>John</Name>
+<Gender>Male</Gender>
+<Address>Texas</Address>
+</Staff-Details>
+
+<Staff-Details>
+<Type>Wizard</Type>
+<Id>4463</Id>
+<Name>Wen Bin</Name>
+<Gender>Male</Gender>
+<Address>California</Address>
+</Staff-Details>
+
+<Staff-Details>
+<Type>Goblin</Type>
+<Id>4567</Id>
+<Name>Sania</Name>
+<Gender>Female</Gender>
+<Address>Newyork</Address>
+</Staff-Details>
+
+
+<Staff-Details>
+<Type>Wizard</Type>
+<Id>4463</Id>
+<Name>Wen Ben</Name>
+<Gender>Male</Gender>
+<Address>California</Address>
+</Staff-Details>
+
+<Staff-Details>
+<Type>Goblin</Type>
+<Id>4567</Id>
+<Name>Sania</Name>
+<Gender>Female</Gender>
+<Address>Newyork</Address>
+</Staff-Details>
+
+<Staff-Details>
+<Type>Wizard</Type>
+<Id>4345</Id>
+<Name>Feng Cheng Jun</Name>
+<Gender>Male</Gender>
+<Address>China</Address>
+</Staff-Details>
+
+
+</Bank-Staff>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<demo:schema version="1.0" xmlns:demo="http://www.w3.org/2001/XMLSchema">
+
+<demo:element name="student">
+
+<demo:complexType>
+
+<demo:sequence>
+
+<demo:element name="id">
+
+<demo:simpleType>
+<demo:restriction base="demo:integer">
+<demo:totalDigits value="3"></demo:totalDigits>
+</demo:restriction>
+</demo:simpleType>
+
+</demo:element>
+<demo:element name="name">
+<demo:simpleType>
+<demo:restriction base="demo:string">
+<demo:length value="11"></demo:length>
+</demo:restriction>
+</demo:simpleType>
+</demo:element>
+
+
+<demo:element name="gender" type="demo:string"></demo:element>
+<demo:element name="department" type="demo:string"></demo:element>
+<demo:element name="age" type="demo:decimal"></demo:element>
+<demo:element name="dob" type="demo:date"></demo:element>
+<demo:element name="status" type="demo:boolean"></demo:element>
+</demo:sequence>
+
+</demo:complexType>
+
+</demo:element>
+
+</demo:schema>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+1. All start tags of XML documnet must match end tags
+2. All elements must closed
+3. All elements must be properly nested
+4. All attribute values must be quoted 
+5. Case Sensitive
+-->
+
+<Diary>    
+ <Monday date="31" month="July" year="1994"/> 
+          <name>Harry Potter</name> 
+          <Heading>My birthday</Heading> 
+          <body>Aunt Marge spoiled my day. </body>
+</Diary> 

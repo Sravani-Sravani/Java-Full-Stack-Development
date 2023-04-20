@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;JSP_Demo_S_01&apos;&#x0D;&#x0A;- Original project: &apos;JSP_Demo_S_01&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     bootstrap.min.css&#x0D;&#x0A;     style.css" description="Delete elements" element1="WebContent/style.css" element2="WebContent/bootstrap.min.css" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1631425054341" subPackages="false" version="1.0"/>
+</session>

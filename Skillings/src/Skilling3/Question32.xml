@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE weather-report[
+<!ELEMENT weather-report (weather)+>
+<!ELEMENT weather (Day+,Date+,Place+,Report+)>
+<!ELEMENT Day (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Place ANY>
+<!ELEMENT Report (#PCDATA)>
+]>
+<weather-report>
+
+<weather>
+<Day>Monday</Day>
+<Date>02-08-2001</Date>
+<Place>Vijayawada</Place>
+<Report>35</Report>
+</weather>
+
+<weather>
+<Day>Tuesday</Day>
+<Date>03-08-2001</Date>
+<Place>Hyderabad</Place>
+<Report>36</Report>
+</weather>
+
+<weather>
+<Day>Wednesday</Day>
+<Date>04-08-2001</Date>
+<Place>Mumbai</Place>
+<Report>32</Report>
+</weather>
+
+<weather>
+<Day>Thursday</Day>
+<Date>05-08-2001</Date>
+<Place>Gujarat</Place>
+<Report>35</Report>
+</weather>
+
+<weather>
+<Day>Friday</Day>
+<Date>06-08-2001</Date>
+<Place>Delhi</Place>
+<Report>23</Report>
+</weather>
+
+<weather>
+<Day>Saturday</Day>
+<Date>07-08-2001</Date>
+<Place>Kerala</Place>
+<Report>25</Report>
+</weather>
+
+</weather-report>

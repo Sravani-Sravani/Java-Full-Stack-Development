@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students [
+<!ELEMENT students (student)+>
+<!ELEMENT student (id+,name+,gender+,department+)>
+<!-- <!ATTLIST student gender CDATA #IMPLIED> -->
+<!-- <!ATTLIST student gender CDATA #FIXED "female"> -->
+<!-- <!ATTLIST student gender CDATA (Male|Female|Others #REQUIRED> -->
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ENTITY KLU "KL University">
+<!ELEMENT department ANY> <!-- EMPTY  -->
+]>
+
+<students> 
+
+<student>
+<id>&apos;1900300001&apos;</id>
+<name>Sravani</name>
+<gender>Female</gender>
+<department>CSE</department>
+</student>
+
+<student>
+<id>1900300002</id>
+<name>PEACE</name>
+<gender>female</gender>
+<department>CSE</department>
+</student>
+
+<student>
+<id>1900300003</id>
+<name>&KLU;</name>
+<gender>female</gender>
+<department>ECE</department>
+</student>
+
+</students>

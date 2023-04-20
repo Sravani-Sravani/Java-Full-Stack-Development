@@ -1,0 +1,227 @@
+
+Aug 12, 2021 16:43:40.23 NEW SESSION
+Aug 12, 2021 16:43:40.24 [54896:26680:0812/164340.235:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 12, 2021 16:43:41.48 [54896:50528:0812/164341.478:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 12, 2021 16:43:52.85 [54896:32484:0812/164352.852:ERROR:device_event_log_impl.cc(214)] [16:43:52.851] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 12, 2021 16:43:52.90 [54896:32484:0812/164352.852:ERROR:device_event_log_impl.cc(214)] [16:43:52.852] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Aug 18, 2021 18:42:09.12 NEW SESSION
+Aug 18, 2021 18:42:09.12 [33992:10744:0818/184209.123:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 18, 2021 18:42:09.35 [33992:31504:0818/184209.352:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 18, 2021 18:42:16.30 [33992:37496:0818/184216.307:ERROR:device_event_log_impl.cc(214)] [18:42:16.307] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 18, 2021 18:42:16.41 [33992:37496:0818/184216.409:ERROR:device_event_log_impl.cc(214)] [18:42:16.409] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 18, 2021 18:42:25.54 [33992:33852:0818/184225.544:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 18, 2021 18:42:46.96 [33992:33852:0818/184246.964:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 18, 2021 18:43:30.38 [33992:33852:0818/184330.388:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Aug 27, 2021 09:51:19.24 NEW SESSION
+Aug 27, 2021 09:51:19.24 [59176:67732:0827/095119.236:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 27, 2021 09:51:23.87 [59176:59568:0827/095123.876:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 27, 2021 09:51:36.43 [59176:66468:0827/095136.434:ERROR:device_event_log_impl.cc(214)] [09:51:36.434] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 27, 2021 09:51:36.43 [59176:66468:0827/095136.434:ERROR:device_event_log_impl.cc(214)] [09:51:36.435] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 27, 2021 09:51:47.09 [59176:67900:0827/095147.095:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 09:52:16.41 [59176:67900:0827/095216.415:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 09:52:59.13 [59176:67900:0827/095259.131:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 09:54:30.23 [59176:67900:0827/095430.229:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 09:57:50.24 [59176:67900:0827/095750.243:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 10:04:49.56 [59176:67900:0827/100449.561:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 27, 2021 10:14:49.57 [59176:67900:0827/101449.578:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Aug 29, 2021 18:07:32.30 NEW SESSION
+Aug 29, 2021 18:07:32.30 [86852:81116:0829/180732.297:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 29, 2021 18:07:33.70 [86852:44440:0829/180733.699:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 29, 2021 18:07:40.03 [86852:84552:0829/180740.038:ERROR:device_event_log_impl.cc(214)] [18:07:40.038] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 29, 2021 18:07:40.04 [86852:84552:0829/180740.039:ERROR:device_event_log_impl.cc(214)] [18:07:40.039] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 29, 2021 18:07:44.43 [86852:65588:0829/180744.436:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:07:44.43 [86852:65588:0829/180744.436:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:07:44.43 [86852:65588:0829/180744.437:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:08:07.35 [86852:65588:0829/180807.354:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:08:09.43 [86852:65588:0829/180809.435:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:08:09.48 [86852:84552:0829/180809.483:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 29, 2021 18:08:09.56 [86852:84552:0829/180809.559:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 29, 2021 18:08:09.71 [86852:84552:0829/180809.716:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 29, 2021 18:08:09.85 [86852:84552:0829/180809.857:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 29, 2021 18:08:13.04 [86852:65588:0829/180813.039:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:08:54.35 [86852:65588:0829/180854.356:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:08:57.38 [86852:65588:0829/180857.379:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:08:57.63 [86852:65588:0829/180857.632:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:10:19.17 [86852:65588:0829/181019.176:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:10:29.12 [86852:65588:0829/181029.129:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:10:53.99 [86852:65588:0829/181053.991:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:13:36.99 [86852:65588:0829/181336.993:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:13:57.18 [86852:65588:0829/181357.184:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:14:04.90 [86852:65588:0829/181404.900:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:20:27.52 [86852:65588:0829/182027.525:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:20:58.14 [86852:65588:0829/182058.144:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:21:45.08 [86852:65588:0829/182145.082:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 18:21:54.95 [86852:65588:0829/182154.952:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:23:38.36 [86852:65588:0829/182338.360:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:26:46.85 [86852:65588:0829/182646.852:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:32:50.30 [86852:65588:0829/183250.302:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:39:43.20 [86852:65588:0829/183943.205:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:39:45.22 [86852:65588:0829/183945.225:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:42:50.31 [86852:65588:0829/184250.313:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:44:37.86 [86852:65588:0829/184437.859:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 18:47:20.24 [86852:65588:0829/184720.242:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Aug 29, 2021 21:29:17.21 NEW SESSION
+Aug 29, 2021 21:29:17.21 [85156:78612:0829/212917.212:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 29, 2021 21:29:21.17 [85156:62140:0829/212921.173:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 29, 2021 21:29:33.53 [85156:84448:0829/212933.532:ERROR:device_event_log_impl.cc(214)] [21:29:33.532] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 29, 2021 21:29:33.54 [85156:84448:0829/212933.539:ERROR:device_event_log_impl.cc(214)] [21:29:33.539] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 29, 2021 21:29:56.78 [85156:87872:0829/212956.788:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 21:29:56.79 [85156:87872:0829/212956.790:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:30:20.37 [85156:87872:0829/213020.370:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 21:30:22.34 [85156:87872:0829/213022.342:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:31:01.89 [85156:87872:0829/213101.894:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 21:31:09.55 [85156:87872:0829/213109.553:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:32:30.23 [85156:87872:0829/213230.235:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 21:32:36.55 [85156:87872:0829/213236.549:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:36:08.50 [85156:87872:0829/213608.507:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2021 21:36:26.04 [85156:87872:0829/213626.039:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:42:38.07 [85156:87872:0829/214238.073:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 29, 2021 21:43:16.10 [85156:87872:0829/214316.107:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Aug 30, 2021 19:23:34.78 NEW SESSION
+Aug 30, 2021 19:23:34.78 [78068:72900:0830/192334.786:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Aug 30, 2021 19:23:37.83 [78068:89428:0830/192337.836:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Aug 30, 2021 19:23:46.31 [78068:88420:0830/192346.316:ERROR:device_event_log_impl.cc(214)] [19:23:46.315] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 30, 2021 19:23:46.31 [78068:88420:0830/192346.316:ERROR:device_event_log_impl.cc(214)] [19:23:46.316] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 30, 2021 19:24:10.74 [78068:73344:0830/192410.743:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:24:16.48 [78068:88420:0830/192416.483:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 30, 2021 19:24:16.65 [78068:88420:0830/192416.651:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 30, 2021 19:24:16.98 [78068:88420:0830/192416.981:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 30, 2021 19:24:17.41 [78068:88420:0830/192417.414:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Aug 30, 2021 19:24:35.08 [78068:73344:0830/192435.083:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:25:15.60 [78068:73344:0830/192515.603:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:26:41.72 [78068:73344:0830/192641.728:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:30:32.02 [78068:73344:0830/193032.020:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:37:31.94 [78068:73344:0830/193731.945:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:47:31.96 [78068:73344:0830/194731.964:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 19:57:31.97 [78068:73344:0830/195731.971:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:07:31.98 [78068:73344:0830/200731.980:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:17:32.01 [78068:73344:0830/201731.986:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:27:31.98 [78068:73344:0830/202731.988:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:37:31.99 [78068:73344:0830/203731.992:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:47:32.00 [78068:73344:0830/204732.002:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Aug 30, 2021 20:52:23.35 [78068:73344:0830/205223.353:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 01, 2021 12:26:42.23 NEW SESSION
+Sep 01, 2021 12:26:42.23 [74144:63372:0901/122642.224:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 01, 2021 12:26:43.25 [74144:83352:0901/122643.234:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 01, 2021 12:26:49.22 [74144:66540:0901/122649.226:ERROR:device_event_log_impl.cc(214)] [12:26:49.226] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 01, 2021 12:26:49.22 [74144:66540:0901/122649.227:ERROR:device_event_log_impl.cc(214)] [12:26:49.227] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 01, 2021 15:44:36.71 NEW SESSION
+Sep 01, 2021 15:44:36.71 [16116:68404:0901/154436.525:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 01, 2021 15:44:42.57 [16116:70048:0901/154442.569:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 01, 2021 15:44:51.62 [16116:89652:0901/154451.623:ERROR:device_event_log_impl.cc(214)] [15:44:51.623] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 01, 2021 15:44:51.67 [16116:89652:0901/154451.624:ERROR:device_event_log_impl.cc(214)] [15:44:51.624] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 01, 2021 16:21:24.57 [16116:74764:0901/162124.575:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 01, 2021 21:53:10.92 NEW SESSION
+Sep 01, 2021 21:53:10.92 [54844:37548:0901/215310.480:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 01, 2021 21:53:12.08 [54844:30568:0901/215312.088:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 01, 2021 21:53:16.70 [54844:32788:0901/215316.700:ERROR:device_event_log_impl.cc(214)] [21:53:16.701] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 01, 2021 21:53:16.70 [54844:32788:0901/215316.702:ERROR:device_event_log_impl.cc(214)] [21:53:16.702] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 02, 2021 14:54:04.70 NEW SESSION
+Sep 02, 2021 14:54:04.70 [60628:45276:0902/145404.703:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 02, 2021 14:54:06.29 [60628:46772:0902/145406.294:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 02, 2021 14:54:13.92 [60628:84308:0902/145413.922:ERROR:device_event_log_impl.cc(214)] [14:54:13.921] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 02, 2021 14:54:13.92 [60628:84308:0902/145413.922:ERROR:device_event_log_impl.cc(214)] [14:54:13.922] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 02, 2021 18:12:57.32 NEW SESSION
+Sep 02, 2021 18:12:57.32 [38308:66356:0902/181257.323:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 02, 2021 18:12:57.36 [38308:44860:0902/181257.343:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 02, 2021 18:12:59.82 [38308:90608:0902/181259.821:ERROR:device_event_log_impl.cc(214)] [18:12:59.820] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 02, 2021 18:12:59.82 [38308:90608:0902/181259.821:ERROR:device_event_log_impl.cc(214)] [18:12:59.820] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 02, 2021 18:47:36.31 NEW SESSION
+Sep 02, 2021 18:47:36.31 [92584:74152:0902/184736.307:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Sep 02, 2021 18:47:36.53 [92584:90072:0902/184736.480:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 02, 2021 18:47:45.56 [92584:61684:0902/184745.565:ERROR:device_event_log_impl.cc(214)] [18:47:45.565] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 02, 2021 18:47:45.56 [92584:61684:0902/184745.565:ERROR:device_event_log_impl.cc(214)] [18:47:45.565] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 02, 2021 18:47:56.23 [92584:43416:0902/184756.236:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 18:48:19.32 [92584:43416:0902/184819.322:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 18:49:02.06 [92584:43416:0902/184902.060:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 18:50:38.37 [92584:43416:0902/185038.370:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 18:54:12.67 [92584:43416:0902/185412.670:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 19:02:01.60 [92584:43416:0902/190201.603:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 19:12:00.58 [92584:43416:0902/191200.579:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 19:12:06.56 [92584:43416:0902/191206.567:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 19:22:06.57 [92584:43416:0902/192206.571:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 02, 2021 19:23:20.91 [92584:43416:0902/192320.910:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 11, 2021 18:49:01.92 NEW SESSION
+Sep 11, 2021 18:49:01.92 [16084:17136:0911/184901.925:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 11, 2021 18:49:14.70 [16084:16912:0911/184914.702:ERROR:device_event_log_impl.cc(214)] [18:49:14.701] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 11, 2021 18:49:14.70 [16084:16912:0911/184914.702:ERROR:device_event_log_impl.cc(214)] [18:49:14.701] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 11, 2021 18:49:55.38 [16084:7672:0911/184955.386:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 18:50:18.34 [16084:7672:0911/185018.341:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 18:51:01.33 [16084:7672:0911/185101.333:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 18:52:38.14 [16084:7672:0911/185238.147:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 18:56:16.77 [16084:7672:0911/185616.770:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 19:02:42.52 [16084:7672:0911/190242.528:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 19:10:16.22 [16084:7672:0911/191016.223:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 19:10:22.19 [16084:7672:0911/191022.197:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 19:20:22.21 [16084:7672:0911/192022.209:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 11, 2021 19:30:22.21 [16084:7672:0911/193022.216:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 12, 2021 09:55:45.81 NEW SESSION
+Sep 12, 2021 09:55:45.81 [10996:13416:0912/095545.805:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 12, 2021 09:55:53.15 [10996:7240:0912/095553.154:ERROR:device_event_log_impl.cc(214)] [09:55:53.155] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 12, 2021 09:55:53.15 [10996:7240:0912/095553.156:ERROR:device_event_log_impl.cc(214)] [09:55:53.155] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 12, 2021 09:56:01.61 [10996:16080:0912/095601.610:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 09:56:28.32 [10996:16080:0912/095628.325:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 09:57:26.14 [10996:16080:0912/095726.147:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 09:59:00.94 [10996:16080:0912/095900.943:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 10:02:31.48 [10996:16080:0912/100231.485:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 10:02:34.74 [10996:16080:0912/100234.741:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 12, 2021 19:12:29.94 NEW SESSION
+Sep 12, 2021 19:12:29.94 [1140:20236:0912/191229.940:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 12, 2021 19:12:41.24 [1140:19272:0912/191241.248:ERROR:device_event_log_impl.cc(214)] [19:12:41.248] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 12, 2021 19:12:41.24 [1140:19272:0912/191241.248:ERROR:device_event_log_impl.cc(214)] [19:12:41.249] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 12, 2021 19:12:47.88 [1140:16580:0912/191247.886:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 19:13:10.41 [1140:16580:0912/191310.414:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 19:13:51.50 [1140:16580:0912/191351.501:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 19:15:23.01 [1140:16580:0912/191523.011:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 19:18:11.32 [1140:16580:0912/191811.321:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 12, 2021 19:19:11.24 [1140:16580:0912/191911.243:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 13, 2021 20:11:20.81 NEW SESSION
+Sep 13, 2021 20:11:20.81 [9396:11524:0913/201120.814:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 13, 2021 20:11:30.44 [9396:8508:0913/201130.439:ERROR:device_event_log_impl.cc(214)] [20:11:30.440] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 13, 2021 20:11:30.44 [9396:8508:0913/201130.441:ERROR:device_event_log_impl.cc(214)] [20:11:30.441] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 13, 2021 20:11:47.44 [9396:10184:0913/201147.445:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:12:13.14 [9396:10184:0913/201213.141:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:13:07.51 [9396:10184:0913/201307.514:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:15:06.16 [9396:10184:0913/201506.163:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:17:49.56 [9396:10184:0913/201749.566:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:23:59.99 [9396:10184:0913/202359.993:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Sep 13, 2021 20:34:00.00 [9396:10184:0913/203400.006:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Sep 15, 2021 12:02:50.28 NEW SESSION
+Sep 15, 2021 12:02:50.28 [16604:14596:0915/120250.285:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 15, 2021 12:02:54.78 [16604:15468:0915/120254.786:ERROR:device_event_log_impl.cc(214)] [12:02:54.785] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 15, 2021 12:02:54.78 [16604:15468:0915/120254.786:ERROR:device_event_log_impl.cc(214)] [12:02:54.786] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Sep 15, 2021 15:35:24.23 NEW SESSION
+Sep 15, 2021 15:35:24.23 [18188:10560:0915/153524.227:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Sep 15, 2021 15:35:31.01 [18188:19040:0915/153531.010:ERROR:device_event_log_impl.cc(214)] [15:35:31.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 15, 2021 15:35:31.01 [18188:19040:0915/153531.012:ERROR:device_event_log_impl.cc(214)] [15:35:31.011] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Sep 15, 2021 15:40:35.33 [18188:17836:0915/154035.337:ERROR:database.cc(1674)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Sep 15, 2021 15:45:24.56 [18188:17836:0915/154524.568:ERROR:database.cc(1674)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+
+Nov 27, 2021 16:20:10.61 NEW SESSION
+Nov 27, 2021 16:20:10.61 [4116:14624:1127/162010.610:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Nov 27, 2021 16:20:16.06 [4116:10988:1127/162016.069:ERROR:device_event_log_impl.cc(214)] [16:20:16.068] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 27, 2021 16:20:16.07 [4116:10988:1127/162016.069:ERROR:device_event_log_impl.cc(214)] [16:20:16.069] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 27, 2021 16:20:16.31 [4116:7976:1127/162016.313:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Nov 27, 2021 16:20:16.31 [4116:7976:1127/162016.313:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Nov 27, 2021 16:20:16.31 [4116:7976:1127/162016.313:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Nov 27, 2021 16:20:16.31 [4116:7976:1127/162016.315:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Nov 27, 2021 16:26:03.73 [4116:10988:1127/162603.737:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+Nov 27, 2021 16:31:01.35 [4116:5044:1127/163101.353:ERROR:database.cc(1773)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Nov 27, 2021 16:42:19.66 [4116:14808:1127/164219.663:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105

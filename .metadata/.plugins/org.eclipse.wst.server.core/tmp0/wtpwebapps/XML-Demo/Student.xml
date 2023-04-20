@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="student.xsd" >
+<id>677</id>
+<name>SRAVANI</name>
+<gender>FEMALE</gender>
+<department>CSE</department>
+<age>20.1</age>
+<dob>2001-07-24</dob>
+<status>true</status>
+</student>

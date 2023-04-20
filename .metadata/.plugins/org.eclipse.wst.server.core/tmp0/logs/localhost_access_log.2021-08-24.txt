@@ -1,0 +1,10 @@
+127.0.0.1 - - [24/Aug/2021:10:28:56 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:28:58 +0530] "GET /Servlet_Skill4_S01/index.html HTTP/1.1" 200 3317
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:28:58 +0530] "GET /Servlet_Skill4_S01/2.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:28:58 +0530] "GET /Servlet_Skill4_S01/1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:28:58 +0530] "GET /Servlet_Skill4_S01/3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:28:58 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:29:06 +0530] "GET /Servlet_Skill4_S01/superadminlogin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:29:14 +0530] "GET /Servlet_Skill4_S01/manager.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:29:18 +0530] "GET /Servlet_Skill4_S01/customerlogin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2021:10:29:19 +0530] "GET /Servlet_Skill4_S01/contact.html HTTP/1.1" 200 131
