@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="PDF_DEMO-1"/>
+<aop-project name="Mail_Demo"/>
+<aop-project name="SpringBootMVCDemo1"/>
+<aop-project name="SDP-3_Project1"/>
+<aop-project name="SpringBootwithRESTAPIDemo"/>
+<aop-project name="PDF_DEMO"/>
+<aop-project name="SpringBootMVC_Insem_2_Exam"/>
+<aop-project name="SpringBootDIIOCApplication"/>
+<aop-project name="Image_Demo"/>
+<aop-project name="SpringBootHelloWorldApplication"/>
+<aop-project name="PDF_DEMO-2"/>
+<aop-project name="SpringBootMVCDemo2"/>
+<aop-project name="SpringBootwithFormHandling"/>
+<aop-project name="SpringBootRestControllerApplication"/>
+<aop-project name="SpringBootwith_JPA_RESTAPI_Demo"/>
+</aop-reference-model>
